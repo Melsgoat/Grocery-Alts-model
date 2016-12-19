@@ -5,20 +5,20 @@
 
 **Snowville Creamery**
 -----------------------
-product | Size | Price| SKU
+product |      | Price| SKU
 --------|------|------|-----
-Whole Milk | Half-Gallon | ? | ?
-Reduced Fat 2% Milk | Half-Gallon | ? | ?
-Fat Free Skim Milk | Half-Gallon | ? | ?
-Spice Nog | Half-Gallon | ? | ?
-Chocolate Milk | Half-Gallon | ?| ?
-Whipping Cream | Half-Gallon | ?| ?
-Half and Half | Half-Gallon | ? | ?
-6% Plain Yogurt | 24 oz | ? | ?
-2% Plain Yogurt | 24 oz | ? | ?
-2% Gingamon Yogurt | 24 oz | ? | ?
-1% Vanilla Yogurt | 24 oz | ? | ?
-Creme Fraiche | 12 oz | ? | ?
+Whole Milk |       | ? | ?
+Reduced Fat 2% Milk |      | ? | ?
+Fat Free Skim Milk |      | ? | ?
+Spice Nog |        | ? | ?
+Chocolate Milk |       | ?| ?
+Whipping Cream |         | ?| ?
+Half and Half |          | ? | ?
+6% Plain Yogurt |       | ? | ?
+2% Plain Yogurt |       | ? | ?
+2% Gingamon Yogurt |      | ? | ?
+1% Vanilla Yogurt |       | ? | ?
+Creme Fraiche |      | ? | ?
 -------------------------------
 
 ** Product Object model ** 
