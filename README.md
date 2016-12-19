@@ -1,4 +1,8 @@
 # Grocery-Alts-model
+
+
+
+
 **Snowville Creamery**
 -----------------------
 product | Size | Price
@@ -15,3 +19,5 @@ Half and Half | Half-Gallon | ?
 2% Gingamon Yogurt | 24 oz | ?
 1% Vanilla Yogurt | 24 oz | ?
 Creme Fraiche | 12 oz | ?
+----------------------
+
