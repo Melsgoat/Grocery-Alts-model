@@ -21,3 +21,15 @@ Half and Half | Half-Gallon | ? | ?
 Creme Fraiche | 12 oz | ? | ?
 -------------------------------
 
+**Other Company**
+---------------------
+product | Size | Price | SKU
+--------|------|-------|-----
++ | + | + | +
++ | + | + | +
++ | + | + | +
+------------------------------
+
+
+^ This is how the tables will be formatted for all companies.
+
