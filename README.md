@@ -21,15 +21,26 @@ Half and Half | Half-Gallon | ? | ?
 Creme Fraiche | 12 oz | ? | ?
 -------------------------------
 
-**Other Company**
----------------------
-product | Size | Price | SKU
---------|------|-------|-----
-+ | + | + | +
-+ | + | + | +
-+ | + | + | +
-------------------------------
+** Product Object model ** 
+-------------------------
+ 
+ **$4.86**
+ -----------
+ Product | Description
+ --------|------------
+ 10-grain | ?
+ Whole Wheat | ?
+ Challah | ?
+ Cinnamon Currant | ?
+ Herb | ?
+ No-Salt whole Wheat | ?
+ Oatmeal Pecan | ?
+ Olde English White Bread | ?
+ Sesame Millet | ?
+ Sourdough Rye | ?
+ Spelt (bread) | ?
+ Sweet Onion Corn Bread | ?
+ Sticky Cinnamon Bun | ?
+ 
 
-
-^ This is how the tables will be formatted for all companies.
 
