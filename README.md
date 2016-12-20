@@ -45,4 +45,4 @@ last name | string
  size-units | integer | the units the product is measured in (?)
  properties | unsigned int | notable properties of the product
  classification | string | what category the product belongs in (i.e. dairy, bread, ect.)
- 
+ in stock | integer | How much of the product is in stock.
