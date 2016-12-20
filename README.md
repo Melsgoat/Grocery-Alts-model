@@ -21,6 +21,13 @@ Half and Half |unsigned int| String | 0 | unsigned int | unsigned int
 Creme Fraiche |unsigned int| String | 1 | unsigned int | unsigned int
 -------------------------------
 
+**User**
+----
+id | username | password
+---|----------|---------
+unsigned int | string | encrypted string
+-----------------------
+
 ** Product Object model ** 
 -------------------------
  
