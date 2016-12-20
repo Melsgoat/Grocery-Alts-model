@@ -23,31 +23,30 @@ Creme Fraiche |unsigned int| String | 1 | unsigned int | unsigned int
 
 **User**
 ----
-id | username | password
----|----------|---------
-unsigned int | string | encrypted string
+data_object | data type
+------------|-----------
+id | unsigned int
+username | string [128]
+password | encrypted string [255]
+birth date | string (?)
+first name | string
+last name | string
+
 -----------------------
 
 ** Product Object model ** 
 -------------------------
  
- **$4.86**
- -----------
- Product | Description
- --------|------------
- 10-grain | string
- Whole Wheat | string
- Challah | string
- Cinnamon Currant | string
- Herb | string
- No-Salt whole Wheat | string
- Oatmeal Pecan | string
- Olde English White Bread | string
- Sesame Millet | string
- Sourdough Rye | string
- Spelt (bread) | string
- Sweet Onion Corn Bread | string
- Sticky Cinnamon Bun | string
+ Object | Object Type | Object Description
+ -------|-------------|--------------------
+ product id | unsigned int | an identifier for the product
+ title | string | short description of product
+ size | integer | size of product
+ size-units | integer | the units the product is measured in (?)
+ properties | unsigned int | notable properties of the product
+ classification | string | what category the product belongs in (i.e. dairy, bread, ect.)
  
+ 
+
 
 
