@@ -34,11 +34,11 @@ last name | string
 
 -----------------------
 
-** Product Object model ** 
+ Product Object model 
 -------------------------
  
  Object | Object Type | Object Description
- -------|-------------|--------------------
+ -------|-------------|-------------------- 
  product id | unsigned int | an identifier for the product
  title | string | short description of product
  size | integer | size of product
@@ -46,7 +46,3 @@ last name | string
  properties | unsigned int | notable properties of the product
  classification | string | what category the product belongs in (i.e. dairy, bread, ect.)
  
- 
-
-
-
