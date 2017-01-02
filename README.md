@@ -28,7 +28,11 @@ data_object | data type
 id | unsigned int
 username | string [128]
 password | encrypted string [255]
-birth date | string (?)
+birth date | string
+street address | string
+PO box | (make optional) string
+phone number | string (?)
+email | string
 first name | string
 last name | string
 
